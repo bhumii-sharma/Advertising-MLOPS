@@ -32,8 +32,6 @@ class DataIngestionError(PipelineError):
 
 class DataValidationError(PipelineError):
     pass
-
-
 class CrossValError(PipelineError):
     pass
 
