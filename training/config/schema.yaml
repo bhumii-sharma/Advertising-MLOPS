@@ -1,0 +1,5 @@
+COLUMNS:
+  TV: float64
+  radio: float64
+  newspaper: float64
+  sales: float64
